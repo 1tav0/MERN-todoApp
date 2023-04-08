@@ -1,3 +1,6 @@
+# Getting Started:
+This is a real-time todo application built with the MERN stack, which includes MongoDB, Express.js, Node.js, and React. The app incorporates Materialize CSS for styling, as well as JSON Web Tokens (JWT) for secure user authentication and authorization. User data is also encrypted for added security. Real-time updates are achieved with the use of React Hooks and context. With the app, users can create and manage tasks in real-time with a seamless user experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
